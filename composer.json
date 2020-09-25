@@ -38,6 +38,8 @@
         "psr-4": {
             "Hyperf\\AsyncQueue\\": "src/"
         }
+        
+        
     },
     "autoload-dev": {
         "psr-4": {
