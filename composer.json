@@ -1,4 +1,8 @@
 {
+
+
+
+    
     "name": "hyperf/async-queue",
     "description": "A async queue component for hyperf.",
     "license": "MIT",
